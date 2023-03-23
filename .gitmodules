@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Boom"]
+	path = Boom
+	url = https://github.com/cran/Boom
+	shallow = true
+	registered = true
+[submodule "BoomSpikeSlab"]
+	path = BoomSpikeSlab
+	url = https://github.com/cran/BoomSpikeSlab
+	shallow = true
+	registered = true
+[submodule "bsts"]
+	path = bsts
+	url = https://github.com/cran/bsts
+	shallow = true
+	registered = true
